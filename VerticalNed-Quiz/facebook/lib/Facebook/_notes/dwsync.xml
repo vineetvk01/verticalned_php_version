@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="FacebookAuthorizationException.php" server="C:/xampp/htdocs/verticalned/" local="131241150355561268" remote="131241150350000000" Dst="0" />
+<file name="FacebookCanvasLoginHelper.php" server="C:/xampp/htdocs/verticalned/" local="131241150359698868" remote="131241150350000000" Dst="0" />
+<file name="FacebookClientException.php" server="C:/xampp/htdocs/verticalned/" local="131241150361767909" remote="131241150360000000" Dst="0" />
+<file name="FacebookJavaScriptLoginHelper.php" server="C:/xampp/htdocs/verticalned/" local="131241150362803699" remote="131241150360000000" Dst="0" />
+<file name="FacebookOtherException.php" server="C:/xampp/htdocs/verticalned/" local="131241150364075536" remote="131241150360000000" Dst="0" />
+<file name="FacebookPageTabHelper.php" server="C:/xampp/htdocs/verticalned/" local="131241150366142020" remote="131241150360000000" Dst="0" />
+<file name="FacebookPermissionException.php" server="C:/xampp/htdocs/verticalned/" local="131241150367197810" remote="131241150360000000" Dst="0" />
+<file name="FacebookRedirectLoginHelper.php" server="C:/xampp/htdocs/verticalned/" local="131241150372204446" remote="131241150370000000" Dst="0" />
+<file name="FacebookRequest.php" server="C:/xampp/htdocs/verticalned/" local="131241150375006435" remote="131241150370000000" Dst="0" />
+<file name="FacebookRequestException.php" server="C:/xampp/htdocs/verticalned/" local="131241150376997847" remote="131241150370000000" Dst="0" />
+<file name="FacebookResponse.php" server="C:/xampp/htdocs/verticalned/" local="131241150380355227" remote="131241150380000000" Dst="0" />
+<file name="FacebookSDKException.php" server="C:/xampp/htdocs/verticalned/" local="131241150381416042" remote="131241150380000000" Dst="0" />
+<file name="FacebookServerException.php" server="C:/xampp/htdocs/verticalned/" local="131241150382481740" remote="131241150380000000" Dst="0" />
+<file name="FacebookSession.php" server="C:/xampp/htdocs/verticalned/" local="131241150386434548" remote="131241150380000000" Dst="0" />
+<file name="FacebookSignedRequestFromInputHelper.php" server="C:/xampp/htdocs/verticalned/" local="131241150389834255" remote="131241150380000000" Dst="0" />
+<file name="FacebookThrottleException.php" server="C:/xampp/htdocs/verticalned/" local="131241150391920753" remote="131241150390000000" Dst="0" />
+<file name="GraphAlbum.php" server="C:/xampp/htdocs/verticalned/" local="131241150394657688" remote="131241150390000000" Dst="0" />
+<file name="GraphLocation.php" server="C:/xampp/htdocs/verticalned/" local="131241150397004424" remote="131241150390000000" Dst="0" />
+<file name="GraphObject.php" server="C:/xampp/htdocs/verticalned/" local="131241150401672447" remote="131241150400000000" Dst="0" />
+<file name="GraphPage.php" server="C:/xampp/htdocs/verticalned/" local="131241150402463006" remote="131241150400000000" Dst="0" />
+<file name="GraphSessionInfo.php" server="C:/xampp/htdocs/verticalned/" local="131241150403533809" remote="131241150400000000" Dst="0" />
+<file name="GraphUser.php" server="C:/xampp/htdocs/verticalned/" local="131241150404734644" remote="131241150400000000" Dst="0" />
+<file name="GraphUserPage.php" server="C:/xampp/htdocs/verticalned/" local="131241150406347066" remote="131241150400000000" Dst="0" />
+</dwsync>

@@ -1,0 +1,2 @@
+RewriteEngine on
+RewriteRule ^([a-z0-9]+)?$ viewprofile.php?id=$1
